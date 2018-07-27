@@ -5,4 +5,7 @@ public class testclass {
     String othertest(){
         return "other test method";
     }
+    String newtest(){
+        return "new test";
+    }
 }
