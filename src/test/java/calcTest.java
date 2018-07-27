@@ -30,8 +30,8 @@ public class calcTest {
         assertEquals(6.0, c.multiply(2,3), 2);
     }
 
-    @Test
+  /*  @Test
     public void divide() {
         assertEquals(3.0, c.divide(3,1), 0.1);
-    }
+    }*/
 }
