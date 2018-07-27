@@ -32,6 +32,6 @@ public class calcTest {
 
     @Test
     public void divide() {
-        assertEquals(2.0, c.divide(0,2), 2);
+        assertEquals(2.0, c.divide(3,0), 2);
     }
 }
