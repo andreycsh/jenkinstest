@@ -2,7 +2,559 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f3b58c-a537-4639-b4f0-973c8ce24a1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/app.java" afterPath="$PROJECT_DIR$/src/main/java/app.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/testclass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/calc.ce4eb1b73de9b8ac.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/calcTest.3c403a2e0c09ac4e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/com/esotericsoftware/kryo/KryoException.a0b9661061bc7653.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/com/esotericsoftware/kryo/io/Input.ce0fb08a3b49a1a1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/com/esotericsoftware/kryo/io/Output.5ecef9c2dc244f3c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/junit/framework/Assert.dc47510e24a80194.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/junit/framework/Test.02c77100c2192acb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/junit/framework/TestCase.f69980edf8f62a7a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/Files.acc4de1cc75454aa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/Memory.930333a31cacca78.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/NativeException.608db327f9b7530c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/NativeIntegration.e17e839fca217610.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/NativeIntegrationUnavailableException.cf00bda743467bd1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/PosixFiles.5d7165ced1138bd5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/ProcessLauncher.98506cbfea252398.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/SystemInfo.8d24def526fe1227.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/net/rubygrapefruit/platform/WindowsRegistry.fd23d15182000fdd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/apache/commons/lang/StringUtils.9dd94cc65aafa7e1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/Action.16df1b43b151ecb5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/GradleException.cc0200f144cd9f23.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/Transformer.1366a6c553c18c15.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/UncheckedIOException.60a4d1552cd957ae.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/AbstractTestDescriptor.e55ac3a9097f5625.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestClassDescriptor.aea5e06f41ecab54.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestClassRunInfo.b70eb34abf73b4d8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestDescriptor.0837b06e93cbc109.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestMethodDescriptor.7f148f45c55b5206.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestOutputEvent.f1ea542a6ad2b992.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/DefaultTestSuiteDescriptor.be79fcb227663895.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/JULRedirector.826b7fb8beec1095.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/SuiteTestClassProcessor.24422e6cc5275c76.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestClassProcessor.8ce624a56c67a7bf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestClassRunInfo.ffc57dee3feee610.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestCompleteEvent.78275883c6a433ab.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestDescriptorInternal.4dcd91f7315bed74.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestResultProcessor.7c5d9e5276aa76fe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestStartEvent.76ea24315a90ce0d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/TestSuiteExecutionException.6c369c1bd87b6e4a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/WorkerTestClassProcessorFactory.511a594bdc07c510.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/AbstractJUnitTestClassProcessor.c05e9e6088d935fe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/GenericJUnitTestEventAdapter.e21cc8eec2ea90a1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/JUnitSpec.e4b8bd941cd14b3a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/JUnitTestClassExecutor.97d9c1a0da8b1616.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/JUnitTestClassProcessor.a3ba584b11c9ecba.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/JUnitTestEventAdapter.81a5be259f165330.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/JUnitTestFramework$TestClassProcessorFactoryImpl.71eaa9f537ca70a4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/TestClassExecutionEventGenerator.d46330597726aa05.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/junit/TestClassExecutionListener.2853603452268fbd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/CaptureTestOutputTestResultProcessor.65616e542a77ee67.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/DefaultStandardOutputRedirector$DiscardAction.156631f7a8e79069.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/DefaultStandardOutputRedirector$WriteAction.e1f66f078ca9cb7e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/DefaultStandardOutputRedirector.93c85d676f677882.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/StandardOutputRedirector.f9f2fa02ff6fd637.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/TestOutputRedirector$Forwarder.2f0a51434c23293a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/processors/TestOutputRedirector.478eaac49b7294ba.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/results/AttachParentTestResultProcessor.586ed6c71300e069.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/RemoteTestClassProcessor.6a749307fb34e9e3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestClassDescriptorSerializer.d34d90427db5f1e6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestClassRunInfoSerializer.1cad7f56cf7d32d0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestDescriptorSerializer.07be640f116497e4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestMethodDescriptorSerializer.7528f76aafeb1a01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestOutputEventSerializer.515497cf88f70b68.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$DefaultTestSuiteDescriptorSerializer.8f4971663862e06d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$IdSerializer.9592ce07a2abc72a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$NullableSerializer.de8b10cc1f7fae7c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$TestCompleteEventSerializer.0fb7ea20b7ff0a9a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$TestStartEventSerializer.be3881b700cba524.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer$WorkerTestSuiteDescriptorSerializer.d64a14ed04d51211.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestEventSerializer.a0fd7d9787104a1b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestWorker$TestFrameworkServiceRegistry.bdea23df5d1b98f9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/TestWorker.9add6ebcea5387ff.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/WorkerTestClassProcessor$WorkerTestSuiteDescriptor.b3807e9b92351840.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/internal/tasks/testing/worker/WorkerTestClassProcessor.0f6525b02f2bb3d2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/LogLevel.33fddedc4b0906b4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/Logger.be8ca7fb1990eedf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/LoggingManager.f5a1c8f585d14b64.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/LoggingOutput.0af497cfed652e14.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/StandardOutputListener.b73280000100e17f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/logging/configuration/LoggingConfiguration.13dd70dd03a163ba.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/specs/Spec.c675621b66bf15c6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/tasks/testing/TestDescriptor.e22627fddfac06fa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/tasks/testing/TestOutputEvent$Destination.2be60c6edc10b24a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/tasks/testing/TestOutputEvent.fe05c51b48ea28c6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/api/tasks/testing/TestResult$ResultType.a72f4f9fd28bd307.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/cli/CommandLineConverter.6a22ab3770ddd89a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/initialization/GradleUserHomeDirProvider.e50dd44c3820aba3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/Factory.aae0f0da228a6ba6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/SystemProperties.30f41451673ca611.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/UncheckedException.693e1e3bb7bb2c34.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/actor/Actor.be1eec6628fd440c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/actor/ActorFactory.ea69c2e8eaeff4bd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/actor/internal/DefaultActorFactory$BlockingActor.1065a7f8ebed0843.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/actor/internal/DefaultActorFactory.f07930a44e14c561.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/classloader/CachingClassLoader.a00e871b4b4ec7bd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/classloader/ClassLoaderHierarchy.411f7efedf026288.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/classloader/MultiParentClassLoader.937c65fd760b7bc2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/AbstractDelegatingExecutorService.74b9915dc579c694.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/AsyncStoppable.d9995c6597eb41b0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/CompositeStoppable$1.7b6ba2c2f45f3562.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/CompositeStoppable$2.9f01009a8e335b9d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/CompositeStoppable.9d4eceae216e86bd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/DefaultExecutorFactory$TrackedManagedExecutor.3c52ae14ffe718d7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/DefaultExecutorFactory.74375fbe6e7d8642.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ExecutorFactory.45e5d95fe1620f9c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ExecutorPolicy$CatchAndRecordFailures.2ac59fa6f1d15197.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ExecutorPolicy.33296db744ed4a0c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/GradleThread$1.5a84d4e83a2f7c6b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/GradleThread.e22d79fc1592c8b0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ManagedExecutor.cc94cf2ddf5b68f2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ManagedExecutorImpl$1.f29f36cf1e8757e7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ManagedExecutorImpl.608347f047ca22c6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ManagedScheduledExecutor.80abda56a2a33f88.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/Stoppable.ebfcfaaa1e4103fd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ThreadFactoryImpl$ManagedThreadRunnable.02d20dd6d3ef3b50.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ThreadFactoryImpl.4eac51284ca30805.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/concurrent/ThreadSafe.a56c6aed1c81e99f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/BoundedDispatch.0d46bdafe763ef83.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/ContextClassLoaderDispatch.16899596e8556b90.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/ContextClassLoaderProxy.d8d34beba29c0fde.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/Dispatch.faab4ef613835d4f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/MethodInvocation.a36e14f437f3d7bf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/ProxyDispatchAdapter$DispatchingInvocationHandler.c0acc00e72b873d4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/ProxyDispatchAdapter.bf7326ca300ff788.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/Receive.4a7871aba16d3346.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/ReflectionDispatch.1465506072996531.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/dispatch/StreamCompletion.3ddffb74ec979f32.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/AbstractBroadcastDispatch.06d67beb5f0f4f9e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/BroadcastDispatch$CompositeDispatch.c8c667233f2cdba1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/BroadcastDispatch$EmptyDispatch.0ba9c1c2564934fe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/BroadcastDispatch$SingletonDispatch.b8081d2bb81e4d4f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/BroadcastDispatch.2913a07b6450c806.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/ListenerBroadcast.a5edada02af921e4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/ListenerManager.f9488657c2acf2a0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/event/ListenerNotificationException.a0653ae7f2d654e3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/exceptions/DefaultMultiCauseException.0fb8d7597b320805.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/exceptions/MultiCauseException.bc1755d319addc2f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/id/CompositeIdGenerator$CompositeId.50a211d693aa85c0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/id/CompositeIdGenerator.256504598ce30132.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/id/IdGenerator.150c17dcd628a758.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/id/LongIdGenerator.11500601923e4fac.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/id/UUIDGenerator.32df863beecaeee4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/ClassLoaderObjectInputStream.94239a8183892796.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/LineBufferingOutputStream.1ef9cb461554d5f7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/LinePerThreadBufferingOutputStream$1$1.2c69430a85276e73.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/LinePerThreadBufferingOutputStream$1.b14e362e3e6c0997.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/LinePerThreadBufferingOutputStream.a9a654bd64b76f82.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/NullOutputStream.eedd2de965e4419c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/StreamByteBuffer$StreamByteBufferChunk.d8b13fba0db3ddcf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/StreamByteBuffer$StreamByteBufferInputStream.6f14b2bac0895ef8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/StreamByteBuffer$StreamByteBufferOutputStream.36f3c65bf268622b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/StreamByteBuffer.731fabece36fa005.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/io/TextStream.3ea5c8112375bfda.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/jvm/JavaInfo.eb500b295f85858c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/jvm/Jvm.5a6385c4f3f3fc31.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/LoggingManagerInternal.e75217c0140ec8b8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/LoggingOutputInternal.c7cf69ba66e1df32.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/StandardOutputCapture.cd14dea9dbc49e73.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingConfigurer.d2699c640b8c304b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingRouter.461888d8bb5d1860.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingSourceSystem.aba10133b686d7bc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingSystem$Snapshot.8f43bf46fe8112bb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingSystem.38d2b96b78eda378.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingSystemAdapter$SnapshotImpl.377b17ca795c31f9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/config/LoggingSystemAdapter.c7bf9413321770b5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/console/ColorMap.27fb3ca21de4edf8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/console/Console.9787e74d21d728ae.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/CategorisedOutputEvent.de30729ac1d2a1fa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/EndOutputEvent.0d8edd2ad993137d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/LogEvent.77d303b7cabf4a64.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/LogLevelChangeEvent.e8e1d6dbb3c47a16.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/OutputEvent.47317953948e5fd0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/OutputEventListener.2419bba0b2e06931.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/RenderableOutputEvent.4b24176d31ead854.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/events/StyledTextOutputEvent.0b665571aaa4cfac.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/format/LogHeaderFormatter.c5dee4d2ca231463.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/progress/ProgressListener.b3a63fa9768cc20e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/progress/ProgressLoggerFactory.21b84a1d3160fc2c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/serializer/LogEventSerializer.a126e3314cebc13f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/serializer/LogLevelChangeEventSerializer.b1a97ed7b823e5fb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/serializer/SpanSerializer.9bebc8b00e2dd1a0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/serializer/StyledTextOutputEventSerializer.be3fea2fb0ccb67f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/DefaultLoggingManager$StartableLoggingRouter.71dfdec4c50d3f34.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/DefaultLoggingManager$StartableLoggingSystem.594d4027e28477ad.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/DefaultLoggingManager.b69df62fd2c3d350.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/DefaultLoggingManagerFactory.678d364a7d4ecd36.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/LoggingServiceRegistry$CommandLineLogging.7f4b237d2b3667c0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/LoggingServiceRegistry$NestedLogging.29636a8c3d0a5a65.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/LoggingServiceRegistry.611beb1975ee0062.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/services/TextStreamOutputEventListener.d51d80d3d4e9f543.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/sink/OutputEventRenderer$1.8728788519695bde.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/sink/OutputEventRenderer$2.e22464f36f1bd31e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/sink/OutputEventRenderer$LazyListener.f05ade6832e259b5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/sink/OutputEventRenderer$SnapshotImpl.2f812286c50f672f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/sink/OutputEventRenderer.ffe8adcdced1d62c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/slf4j/OutputEventListenerBackedLogger.4c6449df047d8d2d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/slf4j/OutputEventListenerBackedLoggerContext$NoOpLogger.507f9c7472fab299.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/slf4j/OutputEventListenerBackedLoggerContext.fba1fbe1bd61bbc3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/slf4j/Slf4jLoggingConfigurer.8f62522a85c72448.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/DefaultStdErrLoggingSystem.adc661ac2562a678.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/DefaultStdOutLoggingSystem.027002fd752a7843.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/JavaUtilLoggingSystem$SnapshotImpl.c7eb86c11a8b40e0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/JavaUtilLoggingSystem.083bb6258d065d60.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/PrintStreamLoggingSystem$1.8a9b784c4bac4c68.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/PrintStreamLoggingSystem$OutputEventDestination.58a2e5c69f08010f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/PrintStreamLoggingSystem$PrintStreamDestination.734118d9069af362.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/PrintStreamLoggingSystem$SnapshotImpl.9dcc7a1425920f39.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/PrintStreamLoggingSystem.6e1b34c4874460dd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/StdErrLoggingSystem.afe8ca8996f03d24.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/source/StdOutLoggingSystem.d66e1a53f2dbf31e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/text/StreamBackedStandardOutputListener.b719f9bf3fc9268d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/text/StyledTextOutput$Style.0ee552be3368e8e2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/text/StyledTextOutput.33b9c50d3297d284.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/logging/text/StyledTextOutputFactory.b1de7d76d814704a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/NativeIntegrationException.8a62216c0e3e97a6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/ProcessEnvironment.d13a001cc9ef32db.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/console/ConsoleDetector.27adb5b843298c58.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/console/ConsoleMetaData.97cec29979dd9b33.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/Chmod.a28adffcb991ae7e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/FileCanonicalizer.ee5badedc6a125b6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/FileMetadataAccessor.5c38a1171494d748.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/FileModeAccessor.f8fcc5caa18d5793.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/FileModeMutator.acbc73b62229bc91.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/FileSystem.d665885e7c795924.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/Stat.39c251776a5a512e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/Symlink.f7846dc16d635595.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/filesystem/services/FileSystemServices.56aa564e69d2c393.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/jansi/DefaultJansiRuntimeResolver.35b4068a93e88661.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/jansi/JansiBootPathConfigurer.1f9910bf20f264cb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/jansi/JansiLibraryFactory.0841502d96597ef3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/jansi/JansiRuntimeResolver.be4b0f33568757ba.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/jansi/JansiStorageLocator.5c03c23aa0b7af7b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeintegration/services/NativeServices.6cb9967b3645cd66.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/nativeplatform/filesystem/FileSystem.99af1b357cd32e68.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/os/OperatingSystem.fc2b6fe31b09ff24.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/JavaMethod.a8a4a239b13416e6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/JavaReflectionUtil.63392d6734508d96.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/NoSuchMethodException.41ae500585e98885.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/NoSuchPropertyException.56e6c7a5fb4d01dc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/PropertyAccessor.333afba0d5934f2d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/reflect/PropertyMutator.68cd94e18d92b2a6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/Address.596343619770e27d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/MessagingClient.b9cdae55eb86dc2a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/MessagingServer.7a4a03deb57d05bf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/ObjectConnection.9df478152edf99e5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/ObjectConnectionBuilder.1aa5c6b7a22f0995.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/ConnectCompletion.3eb519a5576cb6a6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/ConnectException.5aecb516042cf5e9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/Connection.b6de61b1d15d94ad.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/IncomingConnector.7ff62760fad4c3aa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/KryoBackedMessageSerializer.0017da4b23ec1f27.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/MessageIOException.526c0fc0ac2940cb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/MessageSerializer.cee190f84cb104fa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/OutgoingConnector.a76c1a84b6fcff9c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/RecoverableMessageIOException.e35782b90953824d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/RemoteConnection.0591d304ad0a1046.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/ConnectionSet.4eb4c1060e9cd41e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/ConnectionState.1b0cb92772fadf37.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/DefaultMethodArgsSerializer$ArraySerializer.949c1376e2ca0a5d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/DefaultMethodArgsSerializer$EmptyArraySerializer.bc9310f40fb0e607.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/DefaultMethodArgsSerializer.485bd41bc655bb8d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/IncomingQueue.5b309aad826a0422.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/InterHubMessageSerializer$MessageReader.015053ce7e4d074a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/InterHubMessageSerializer$MessageWriter.e7c41a5481875430.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/InterHubMessageSerializer.5209ade98ab57342.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/JavaSerializationBackedMethodArgsSerializer.489fb334004b458e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$ChannelDispatch.c70e3c26984da6f6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$ConnectionDispatch.490a9a8c0331709c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$ConnectionReceive.bd420d2397c8611b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$Discard.bffb637e223361af.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$Handler.92e81d3e4dbd9d53.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub$State.41dd6c9ef06dd3f5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHub.5747c783c069d56a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHubBackedClient.bf1481e01c62c0b9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHubBackedObjectConnection$1.4d8736881aea925c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHubBackedObjectConnection$DispatchWrapper.69f8df02d5dd3730.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MessageHubBackedObjectConnection.bbd508298d965e50.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MethodArgsSerializer.edb03408adbae78a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MethodInvocationSerializer$MethodDetails.38ff4d1d9cd49a0d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MethodInvocationSerializer$MethodInvocationReader.7e4d45a892d29dbc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MethodInvocationSerializer$MethodInvocationWriter.f53a5f67a89ad266.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/MethodInvocationSerializer.7ab800499f3103d4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/OutgoingQueue.803c54b1652a6095.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/RejectedMessageListener.1c8d91be0fa2be93.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/StreamFailureHandler.96905a51565dee6d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/ChannelIdentifier.504367d0e1cc977d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/ChannelMessage.3c286fcb24291f70.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/EndOfStream.62aeefb3f0660427.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/InterHubMessage$Delivery.14876cefe8e313ed.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/InterHubMessage.e6ffc22bc6339237.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/RejectedMessage.b894c17047d42239.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/Routable.f7b9aef2384ae8fd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/protocol/StreamFailureMessage.2f9a86012ee00217.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/queue/EndPointQueue.a51f9bbc7a019357.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/queue/MultiChannelQueue.02e833db0406258f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/queue/MultiEndPointQueue$1.20cf36923effc9be.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/queue/MultiEndPointQueue.88208b6b7974884d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/hub/queue/QueueInitializer.3f799e7f146b0505.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/InetAddressFactory.2899a27135dd6c80.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/InetEndpoint.356be7a4be7fce75.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/MultiChoiceAddress.28203b42fd8b5bfc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/MultiChoiceAddressSerializer.ba7e111777d02cf0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketConnectCompletion.6967e49ed8e76cfe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketConnection$1.11291a83319aa69e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketConnection$SocketInputStream.6df3d93d21b74deb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketConnection$SocketOutputStream.2f5409c722d9cfa1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketConnection.c222573579088db2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketInetAddress$Serializer.c70d1dfbf200590e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/SocketInetAddress.9c8198f6e0125f9e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/internal/inet/TcpOutgoingConnector.4b72a3e3bc5e134d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/remote/services/MessagingServices.68b0968afd4617e7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractCollectionSerializer.1601735271d5bb70.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractDecoder$DecoderStream.a587cef381eab57e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractDecoder.93866bd6cd1f2f92.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractEncoder$EncoderStream.495419da9d7a4803.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractEncoder.2c970c11aa4f84c8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/AbstractSerializer.65f9f7261fde3722.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$BooleanSerializer.031007c817ae8a11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$ByteArraySerializer.73ac19bb068acd07.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$ByteSerializer.4224daa1c04cfb2f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$DoubleSerializer.2db69d941e35c5ff.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$EnumSerializer.d3afaed819860d0a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$FileSerializer.4655667e37925574.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$FloatSerializer.b4fbd540b5729446.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$IntegerSerializer.adf4a285709b5d31.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$LongSerializer.f9b3a332fd88e052.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$ShortSerializer.4920603d5e06fd98.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$StringMapSerializer.0b41411fce9ad3ab.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$StringSerializer.0ec6be6aac9e76e7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory$ThrowableSerializer.f86e47037c03ae5e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/BaseSerializerFactory.529e1e82112f81e3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/Decoder.0fac932b27c99bd6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializer.967feb35949ca9e4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$1.5f6c3e8309bc7fc9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$HierarchySerializerMatcher.f6e089e18cd27723.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$SerializerClassMatcherStrategy.03efb13db538bc70.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$StrictSerializerMatcher.14fc9f53bfdc908d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$TaggedTypeSerializer.01ce5302b491ba84.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry$TypeInfo.ef5bd388518042e9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/DefaultSerializerRegistry.c6d84a7556103f68.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/Encoder.a1913b9afd4b9bd8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/FlushableEncoder.291845345fc53f9b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/HashCodeSerializer.c4c7fe9201471c24.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/InputStreamBackedDecoder.df7230faf3629f99.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/ListSerializer.05d5c7fe0b851a31.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/ObjectReader.87778113877eb846.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/ObjectWriter.f086f16ab016bc35.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/Serializer.1d795e77d888982b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/SerializerRegistry.b8d5e540a5e252a1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/StatefulSerializer.aff8ed792a4e30a4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/kryo/KryoBackedDecoder.9e23b110cde46853.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/kryo/KryoBackedEncoder.10e564ed71a5d0f3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/kryo/TypeSafeSerializer$1.6f08cb892d43488a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/kryo/TypeSafeSerializer$2.5f509ed1dfcc56b2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/serialize/kryo/TypeSafeSerializer.4b74bcc69ff83dd3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/AbstractServiceMethod.e297a390be464f3e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceMethodFactory.34486ae27e0cd73c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$CompositeServiceProvider.b113ceffae686ddb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$FactoryMethodService.1c0f3978694461d2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$FactoryService.7c630b9bafcd2c0d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$ManagedObjectServiceProvider.127d46bc10ab15d6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$OwnServices$ProviderAnalyser.d58c44984f2a7c4e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$OwnServices.f69ef73758e91f8a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$ParentServices.76b6976f9943e896.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$Service.9b8f2f5d19e60ca9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$ServiceProvider.4f5081f8cc35da49.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$SingletonService$BindState.511dab5dc40702f9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$SingletonService.e0c47607706c30d1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry$State.a5abd1fa1b47c324.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/DefaultServiceRegistry.117d096dd9a170a0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/MethodHandleBasedServiceMethod.9a33f12cd2105ec3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/MethodHandleBasedServiceMethodFactory.ffe8e90361be1d80.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ReflectionBasedServiceMethod.f2bfd3ce061d2a5e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/RelevantMethods.e9335cf1e13eab12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/RelevantMethodsBuilder.00200acfdd7af533.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceCreationException.697bd52b122f5972.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceLookupException.6c5976880212f8bb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceMethod.1dd6b490e19ae621.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceMethodFactory.7e7bb0952bcefd01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceRegistration.8dc12917d2abe33c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceRegistry.1c53f5836a5c5c2f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/ServiceValidationException.e100273489cbd9eb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/service/UnknownServiceException.7d5901d67573d28e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/Clock.95fbafd7f5464741.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/CountdownTimer.f5551f0cabab8830.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/MonotonicClock.e0cfd497c35c9d70.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/Time.be885ae8cb151288.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/TimeSource$1.4ac975c9f08fba37.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/TimeSource.8a61fe900a7962fb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/internal/time/Timer.c79146a0a36c914e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/health/memory/JvmMemoryInfo.49a8b49c90798550.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/health/memory/JvmMemoryStatusListener.ccc22b13768b5b0b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/health/memory/MemoryManager.2c42e92e91376771.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/health/memory/OsMemoryInfo.f3d8c343659d758b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/WorkerLoggingSerializer.84d1fb979d57f242.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/WorkerProcessContext.878856e4aceefd3f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/ActionExecutionWorker$1.be789527f5d0984f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/ActionExecutionWorker.0e195ef23803aefa.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/SystemApplicationClassLoaderWorker$1.81277fb42f40501b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/SystemApplicationClassLoaderWorker$WorkerServices$1.4d1444e80be6def7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/SystemApplicationClassLoaderWorker$WorkerServices.c5d42439162de765.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/SystemApplicationClassLoaderWorker.e18a4225ac1c7b24.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/WorkerContext.ce48f96dc7e178b7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/WorkerDirectoryProvider.7d3d5310fc1fc9f8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/WorkerLogEventListener.9d0a95522f93f129.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/gradle/process/internal/worker/child/WorkerLoggingProtocol.87b76f5224008584.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/hamcrest/SelfDescribing.dd3fb3c4174494eb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/After.22a10ace719bd815.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/AfterClass.1bda609276c1e237.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Assert.e2bac9fc5ef3a4be.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Before.3cb839b1659a1ec7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/BeforeClass.cf0d98deff89b85b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/ClassRule.fda4ea3d01f09b29.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/ComparisonFailure.4819bc542c5ff171.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/FixMethodOrder.eed0fab482256a60.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Ignore.334471f13b11c0a2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Rule.a3e00e4c6a1fa807.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Test$None.7b240ff718fadace.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/Test.f5fa369027e48457.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/AssumptionViolatedException.b9b02971d6fbf025.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/MethodSorter$1.81fdc65e8fe19b52.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/MethodSorter$2.bfe6560dc3722ab0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/MethodSorter.e7c1106d3801ff54.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.84f7fffb8cd30ad9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/AnnotatedBuilder.0faf353d180c9332.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/IgnoredBuilder.e152f333c53967a6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/IgnoredClassRunner.03bb45d9edb4af51.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/JUnit3Builder.4a2cc8e608e1275e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/JUnit4Builder.5902b7da0403f55c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/NullBuilder.2c8f3561ed8ea9c5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/builders/SuiteMethodBuilder.1df136431e07e393.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/requests/ClassRequest.f1e703dd2591ce5c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/requests/FilterRequest.4bc584d702371a84.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/requests/SortingRequest.c709ac0c69c6c418.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/ErrorReportingRunner.34ce0b8018d23c16.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/JUnit38ClassRunner.de499c8d1fd9a238.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/SuiteMethod.b66b19cded663e35.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/model/EachTestNotifier.0cb318e674165ac8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/model/MultipleFailureException.ba2e30211a2c0343.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/model/ReflectiveCallable.d591724635588bcb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$Builder.f24845fa6fd065af.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$DeclaringClassMustBePublic.1de994463c748d89.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeARule.e24e9f59de6fe5b7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeATestRule.690823bd2992f52e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule.1e703fb3e7f4e533.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBePublic.806c174eb921b478.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeStatic.ac28a03dd36b2b5a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeARule.88ea4a2237de2b8b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeATestRule.9f4dd18a26005c18.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator$RuleValidator.8586f30561fc5bb8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/rules/RuleMemberValidator.95b5ee2068ec6875.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/ExpectException.d4f541ccb0309b8c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/Fail.bb6a15123fe8fdc1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/FailOnTimeout.23b1ea49a86050c7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/InvokeMethod.05a7aa636afa2c39.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/RunAfters.3442a72883667c56.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/internal/runners/statements/RunBefores.0701ea1d8962a22f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/rules/MethodRule.e09f2c4e77dbd231.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/rules/RunRules.89f6dee1be8fdd02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/rules/TestRule.5fc8e058f65c21b9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/Describable.5c037e4fca46caf7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/Description.c7f1b09126c24b2b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/Request$1.4c086d8a2b37df36.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/Request.4f785af929bd628a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/RunWith.cc0b3a499a321d11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/Runner.f5abacc70e2e08a4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/manipulation/Filterable.56984ec3fa898f1e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/manipulation/NoTestsRemainException.52f9604bae37dc00.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/manipulation/Sortable.be56946074b21817.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunListener$ThreadSafe.888656533206a0b5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunListener.a740fd873cf92a63.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunNotifier$3.7a903d9d1caf7673.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunNotifier$7.304ecd1b313cb650.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunNotifier$SafeNotifier.3b3dc2f2fc8cfc56.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/RunNotifier.ba709a76760379c2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/StoppedByUserException.bc4c82f61839f39b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runner/notification/SynchronizedRunListener.0f89c0c6a77088e5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/BlockJUnit4ClassRunner$1.b3af68717b17ffc6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/BlockJUnit4ClassRunner.673d2df2f68a9490.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/ParentRunner$1.89f115a2214a3636.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/ParentRunner$2.0fc04165488ae7c7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/ParentRunner$3.65f7d637ed11f8f4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/ParentRunner.df303f19df248a10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/Annotatable.84b4e48c495f8b94.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/FrameworkField.d6d3c27befd6f49d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/FrameworkMember.83f9d72bb2731cf1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/FrameworkMethod$1.87d2600c48ade534.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/FrameworkMethod.b9c1cccbfa624e4a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/InitializationError.2b7eaa4480633ff6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/MultipleFailureException.6864935644081f84.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/RunnerBuilder.0281d51b4f8328d4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/RunnerScheduler.81141e4ce1555697.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/Statement.9a75aa5de27bf4d5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/TestClass$FieldComparator.261449f31a730808.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/TestClass$MethodComparator.5a734d8eaadb6011.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/runners/model/TestClass.90136128a3e4d163.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationValidatorFactory.e736331fde301341.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationsValidator$AnnotatableValidator.d211a963f22be103.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationsValidator$ClassValidator.1b463c4e6642e880.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationsValidator$FieldValidator.64068b954dc56a31.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationsValidator$MethodValidator.f16b57f17c787036.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/AnnotationsValidator.51f829810937d72f.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/PublicClassValidator.3bac248cf06b18e4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/TestClassValidator.1060caecb17d0f98.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/junit/validator/ValidateWith.6cf104addb581170.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/ILoggerFactory.d3444d6d2c340890.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/Logger.1b7aff6a79c57cf8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/LoggerFactory.a03027467b74852e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/bridge/SLF4JBridgeHandler.fd4e303cf6395e0d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/event/LoggingEvent.2544de1eea72ace4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/helpers/NOPLoggerFactory.54f5632bfcb8d8d5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/helpers/SubstituteLoggerFactory.b4ada5c696b6401d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/helpers/Util.6353f961d998a4b6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/impl/StaticLoggerBinder.f617392f76423f5a.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/org/slf4j/spi/LoggerFactoryBinder.ad01332ef8ac1e39.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/api/GradleException.06cbccc3ed8ab672.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/api/specs/Spec.8dd9ea23d26e3bc0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/UncheckedException.8f84e887d0054d96.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/classloader/ClassLoaderHierarchy.0400ce81ce8d790d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/classloader/ClassLoaderSpec.b5b5b0551b03d0bd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/classloader/ClassLoaderUtils.d9df159aa638a97e.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/classloader/FilteringClassLoader$Spec.3ac034b7a4a60165.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/classloader/FilteringClassLoader.5ceb75416ead87d7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/JavaMethod.ae8ff60f4a58a229.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/JavaReflectionUtil.6195c3d085a25aeb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/NoSuchMethodException.3e3fcd2cf38f83f3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/NoSuchPropertyException.a8fe7357e724538c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/PropertyAccessor.18b020181fff89eb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/internal/reflect/PropertyMutator.6d9e080db2c0a7b4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/classpathdumps/worker/org/gradle/process/internal/worker/GradleWorkerMain.2530d820291856d0.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/jacoco/jacocoTest.exec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/META-INF/maven/org.jacoco/org.jacoco.agent/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/META-INF/maven/org.jacoco/org.jacoco.agent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/jacocoagent.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/org.jacoco.agent-0.8.0.jar_0a1ac833cae91eb2e2152073ffb36feb/org/jacoco/agent/AgentJar.class" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/calcTest.class" afterPath="$PROJECT_DIR$/build/classes/java/test/calcTest.class" />
+      <change beforePath="$PROJECT_DIR$/build/libs/app-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/app-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/calcTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/calcTest.html" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-calcTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-calcTest.xml" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -19,13 +571,30 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -51,7 +620,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testclass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testclass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/testclass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -192,6 +761,11 @@
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Verifies code coverage metrics based on specified rules for the test task." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jacocoTestCoverageVerification" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="testClasses" />
@@ -247,6 +821,11 @@
                 <option name="name" value="check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Generates code coverage report for the test task." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jacocoTestReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assemble" />
@@ -298,9 +877,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/.gradle/gradle.properties" value="2807950508" />
-        <entry key="$PROJECT_DIR$" value="4595428707062" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2186640637" />
+        <entry key="$USER_HOME$/.gradle/gradle.properties" value="3437025966" />
+        <entry key="$PROJECT_DIR$" value="4598055672195" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1300592712" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4270720256" />
       </map>
     </option>
@@ -503,11 +1082,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/calcTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/calc.java" />
         <option value="$PROJECT_DIR$/src/main/java/app.java" />
         <option value="$PROJECT_DIR$/src/main/java/testclass.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -558,6 +1137,11 @@
             <path>
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
               <item name="jenkinstestpr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkinstestpr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -585,6 +1169,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -597,6 +1185,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -857,7 +1446,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -867,15 +1455,15 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -917,14 +1505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -987,6 +1567,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
   <component name="masterDetails">
     <states>
@@ -1066,6 +1657,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
