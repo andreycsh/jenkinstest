@@ -9,6 +9,6 @@ public class testclass {
         return "new test";
     }
     String autotest(){
-        return "try again";
+        return "new try";
     }
 }
