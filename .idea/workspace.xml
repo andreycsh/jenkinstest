@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f3b58c-a537-4639-b4f0-973c8ce24a1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/testclass.java" afterPath="$PROJECT_DIR$/src/main/java/testclass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
