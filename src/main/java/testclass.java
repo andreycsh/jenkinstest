@@ -9,6 +9,9 @@ public class testclass {
         return "new test";
     }
     String autotest(){
-        return "new string 4";
+        return "new string 5";
+    }
+    String newbranch(){
+        return "test";
     }
 }

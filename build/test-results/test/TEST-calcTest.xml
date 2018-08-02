@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="calcTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-07-27T11:27:59" hostname="GB0-DAR-1-8729" time="0.033">
+<testsuite name="calcTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-08-01T10:42:25" hostname="GB0-DAR-1-8729" time="0.038">
   <properties/>
-  <testcase name="sum" classname="calcTest" time="0.032"/>
+  <testcase name="sum" classname="calcTest" time="0.037"/>
   <testcase name="minus" classname="calcTest" time="0.0"/>
   <testcase name="multiply" classname="calcTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
