@@ -3,14 +3,18 @@ pipeline{
 	stages{
 		stage('test'){
 			steps{
-				useWrapper(false)
-				gradle('test')
+				gradle{
+					useWrapper(false)
+					tasks('test')
+				}
 			}
 		}
 		stage('build'){
 			steps{
-				useWrapper(false)
-				gradle('build')
+				gradle{
+					useWrapper(false)
+					tasks('build')
+				}
 			}
 		}
 	}
